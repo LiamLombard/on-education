@@ -1,17 +1,18 @@
 # Table of contents
 
+- [Table of contents](#table-of-contents)
 - [Creating a new manuscript](#creating-a-new-manuscript)
-  * [Configuration](#configuration)
-  * [Create repository](#create-repository)
-  * [Continuous integration](#continuous-integration)
-    + [GitHub Actions](#github-actions)
-    + [SSH Deploy Key](#ssh-deploy-key)
+  - [Configuration](#configuration)
+  - [Create repository](#create-repository)
+  - [Continuous integration](#continuous-integration)
+    - [GitHub Actions](#github-actions)
+    - [SSH Deploy Key](#ssh-deploy-key)
       - [Add the public key to GitHub](#add-the-public-key-to-github)
       - [Add the private key to GitHub](#add-the-private-key-to-github)
-    + [Travis CI](#travis-ci)
-    + [Previewing pull request builds with AppVeyor](#previewing-pull-request-builds-with-appveyor)
-  * [README updates](#readme-updates)
-  * [Finalize](#finalize)
+    - [Travis CI](#travis-ci)
+    - [Previewing pull request builds with AppVeyor](#previewing-pull-request-builds-with-appveyor)
+  - [README updates](#readme-updates)
+  - [Finalize](#finalize)
 - [Merging upstream rootstock changes](#merging-upstream-rootstock-changes)
 
 _generated with [markdown-toc](https://ecotrust-canada.github.io/markdown-toc/)_
@@ -36,9 +37,9 @@ In general, assume that all commands in this setup are case-sensitive.
 
 ```sh
 # GitHub username (change from manubot)
-OWNER=manubot
+OWNER=LiamLombard
 # Repository name (change from rootstock)
-REPO=rootstock
+REPO=on_education
 ```
 
 ## Create repository
