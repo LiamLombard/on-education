@@ -1,7 +1,6 @@
 ---
 author-meta:
-- John Doe
-- Jane Roe
+- Liam Lombard
 bibliography:
 - content/manual-references.json
 date-meta: '2020-04-15'
@@ -15,21 +14,21 @@ header-includes: '<!--
 
   <meta name="dc.format" content="text/html" />
 
-  <meta name="dc.title" content="Manuscript Title" />
+  <meta name="dc.title" content="On Education" />
 
-  <meta name="citation_title" content="Manuscript Title" />
+  <meta name="citation_title" content="On Education" />
 
-  <meta property="og:title" content="Manuscript Title" />
+  <meta property="og:title" content="On Education" />
 
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta property="twitter:title" content="On Education" />
 
   <meta name="dc.date" content="2020-04-15" />
 
   <meta name="citation_publication_date" content="2020-04-15" />
 
-  <meta name="dc.language" content="en-US" />
+  <meta name="dc.language" content="en-GB" />
 
-  <meta name="citation_language" content="en-US" />
+  <meta name="citation_language" content="en-GB" />
 
   <meta name="dc.relation.ispartof" content="Manubot" />
 
@@ -39,21 +38,7 @@ header-includes: '<!--
 
   <meta name="citation_technical_report_institution" content="Manubot" />
 
-  <meta name="citation_author" content="John Doe" />
-
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-
-  <meta name="twitter:creator" content="@johndoe" />
-
-  <meta name="citation_author" content="Jane Roe" />
-
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Liam Lombard" />
 
   <link rel="canonical" href="https://LiamLombard.github.io/on-education/" />
 
@@ -67,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://LiamLombard.github.io/on-education/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://LiamLombard.github.io/on-education/v/d7b7506fd796ea2929a03e090ebbd605cf62d0f7/" />
+  <link rel="alternate" type="text/html" href="https://LiamLombard.github.io/on-education/v/f8b4255c9ff060419cf4dacbb1022c50f807fc87/" />
 
-  <meta name="manubot_html_url_versioned" content="https://LiamLombard.github.io/on-education/v/d7b7506fd796ea2929a03e090ebbd605cf62d0f7/" />
+  <meta name="manubot_html_url_versioned" content="https://LiamLombard.github.io/on-education/v/f8b4255c9ff060419cf4dacbb1022c50f807fc87/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://LiamLombard.github.io/on-education/v/d7b7506fd796ea2929a03e090ebbd605cf62d0f7/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://LiamLombard.github.io/on-education/v/f8b4255c9ff060419cf4dacbb1022c50f807fc87/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,12 +73,12 @@ keywords:
 - markdown
 - publishing
 - manubot
-lang: en-US
+lang: en-GB
 manubot-clear-requests-cache: false
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
-title: Manuscript Title
+title: On Education
 ...
 
 
@@ -103,9 +88,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://LiamLombard.github.io/on-education/v/d7b7506fd796ea2929a03e090ebbd605cf62d0f7/))
+([permalink](https://LiamLombard.github.io/on-education/v/f8b4255c9ff060419cf4dacbb1022c50f807fc87/))
 was automatically generated
-from [LiamLombard/on-education@d7b7506](https://github.com/LiamLombard/on-education/tree/d7b7506fd796ea2929a03e090ebbd605cf62d0f7)
+from [LiamLombard/on-education@f8b4255](https://github.com/LiamLombard/on-education/tree/f8b4255c9ff060419cf4dacbb1022c50f807fc87)
 on April 15, 2020.
 </em></small>
 
@@ -113,25 +98,10 @@ on April 15, 2020.
 
 
 
-+ **John Doe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
++ **Liam Lombard**<br>
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [LiamLombard](https://github.com/LiamLombard)<br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
-  </small>
-
-+ **Jane Roe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
-  <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
   </small>
 
 
