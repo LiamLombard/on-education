@@ -52,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://LiamLombard.github.io/on-education/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://LiamLombard.github.io/on-education/v/5227a400267bffb790d390501f236f02484b8071/" />
+  <link rel="alternate" type="text/html" href="https://LiamLombard.github.io/on-education/v/22fa75a482bc559ab6fabd2354b908a0037f1055/" />
 
-  <meta name="manubot_html_url_versioned" content="https://LiamLombard.github.io/on-education/v/5227a400267bffb790d390501f236f02484b8071/" />
+  <meta name="manubot_html_url_versioned" content="https://LiamLombard.github.io/on-education/v/22fa75a482bc559ab6fabd2354b908a0037f1055/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://LiamLombard.github.io/on-education/v/5227a400267bffb790d390501f236f02484b8071/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://LiamLombard.github.io/on-education/v/22fa75a482bc559ab6fabd2354b908a0037f1055/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,9 +88,9 @@ title: On Education
 
 <small><em>
 This manuscript
-([permalink](https://LiamLombard.github.io/on-education/v/5227a400267bffb790d390501f236f02484b8071/))
+([permalink](https://LiamLombard.github.io/on-education/v/22fa75a482bc559ab6fabd2354b908a0037f1055/))
 was automatically generated
-from [LiamLombard/on-education@5227a40](https://github.com/LiamLombard/on-education/tree/5227a400267bffb790d390501f236f02484b8071)
+from [LiamLombard/on-education@22fa75a](https://github.com/LiamLombard/on-education/tree/22fa75a482bc559ab6fabd2354b908a0037f1055)
 on April 18, 2020.
 </em></small>
 
@@ -113,7 +113,7 @@ If humanity has proved anything over the last fifty to sixty years, it's that we
 
 So what should we change and why?
 
-### What we teach
+## What we teach
 
 We need to change the focus on what we teach.
 Traditional subjects like maths, English, languages, history, art and the like have their advantages and disadvantages.
@@ -127,7 +127,7 @@ But they've always been an essential part of our progression, so it's sad we don
 However to promote these, schools will likely require an overhaul as they currently subdue and discourage them, though not on purpose.
 
 
-### How we teach
+## How we teach
 
 Teaching in the traditional way is a waste of money.
 Now before the pitchforks are raised against me.
@@ -149,7 +149,7 @@ This still doesn't cover teachers and why they are still useful.
 My vision of what teachers should be doing is acting as a guide to young students, helping direct their studies, giving advice, helping explain things or general moral and possibly emotional support.
 If teachers had the time to perform these duties they'd be making better use of their time, becuase until now, we've never valued their time close to it's actual value.
 
-### The output of our teaching
+## The output of our teaching
 
 Finally, I'll put a word in on exams.
 I've sat my fair share of them, I've even enjoyed them most of the time.
