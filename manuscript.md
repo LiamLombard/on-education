@@ -52,11 +52,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://LiamLombard.github.io/on-education/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://LiamLombard.github.io/on-education/v/22fa75a482bc559ab6fabd2354b908a0037f1055/" />
+  <link rel="alternate" type="text/html" href="https://LiamLombard.github.io/on-education/v/892c0abd8e8d11ce60fab6bf950cb4720035add1/" />
 
-  <meta name="manubot_html_url_versioned" content="https://LiamLombard.github.io/on-education/v/22fa75a482bc559ab6fabd2354b908a0037f1055/" />
+  <meta name="manubot_html_url_versioned" content="https://LiamLombard.github.io/on-education/v/892c0abd8e8d11ce60fab6bf950cb4720035add1/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://LiamLombard.github.io/on-education/v/22fa75a482bc559ab6fabd2354b908a0037f1055/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://LiamLombard.github.io/on-education/v/892c0abd8e8d11ce60fab6bf950cb4720035add1/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,9 +88,9 @@ title: On Education
 
 <small><em>
 This manuscript
-([permalink](https://LiamLombard.github.io/on-education/v/22fa75a482bc559ab6fabd2354b908a0037f1055/))
+([permalink](https://LiamLombard.github.io/on-education/v/892c0abd8e8d11ce60fab6bf950cb4720035add1/))
 was automatically generated
-from [LiamLombard/on-education@22fa75a](https://github.com/LiamLombard/on-education/tree/22fa75a482bc559ab6fabd2354b908a0037f1055)
+from [LiamLombard/on-education@892c0ab](https://github.com/LiamLombard/on-education/tree/892c0abd8e8d11ce60fab6bf950cb4720035add1)
 on April 18, 2020.
 </em></small>
 
@@ -149,6 +149,14 @@ This still doesn't cover teachers and why they are still useful.
 My vision of what teachers should be doing is acting as a guide to young students, helping direct their studies, giving advice, helping explain things or general moral and possibly emotional support.
 If teachers had the time to perform these duties they'd be making better use of their time, becuase until now, we've never valued their time close to it's actual value.
 
+Most of what I've said so far seems to be largely geared towards primary and secondary education.
+However, I believe things are going wrong in our universities too.
+My observations over four years at university showed me how inefficient their teaching practices are.
+Most of the suggestions I've posed for the other forms of education still hold.
+However I believe, given the resources universities hold and the research they conduct, they are also wasting the student resource as well.
+Maybe there is a chance to get more research done, while also giving students a much better overall education and learning by practice rather than dwelling on too much theory.
+But I expect my suggestions on this can also wait for another day, and I'll leave this to provoke some thought for now.
+
 ## The output of our teaching
 
 Finally, I'll put a word in on exams.
@@ -164,7 +172,11 @@ And I don't think that is beyond us, as so little is.
 
 These are some words I wrote about the subject.
 It took me about half an hour, but my ideas have been kicking around for a while now.
-I could go on and talk at length about exactly what we should do to these ends but I'll leave those opinions unvoiced to allow the reader to think about it without my ideas infecting your thought process.
+You'll note there are no citations or references in this post,
+this is purely a work of opinion from someone fresh from the system they deem broken.
+People will disagree as they may, but this is something I felt needs to be voiced.
+I could go on and write at length about exactly what we should do to these ends, and I probably will in time.
+For now I'll leave those opinions unvoiced to allow the reader to think about it without my ideas infecting your thought process.
 And I also ask the question to you, maybe I am wrong, there may be a flaw in my logic, I've considered many counterpoints to my argument so far, and still believe in the general idea I've posed.
 I welcome more discussion as well, as this idea has merit and I alone cannot make this happen.
 
