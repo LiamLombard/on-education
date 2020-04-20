@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/LiamLombard/on-education/tree/gh-pages) branch hosts the contents of this directory at <https://LiamLombard.github.io/on-education/>.
-The permalink for this webpage version is <https://LiamLombard.github.io/on-education/v/892c0abd8e8d11ce60fab6bf950cb4720035add1/>.
+The permalink for this webpage version is <https://LiamLombard.github.io/on-education/v/65ea2d089564f729b2a38eab5d62d7638ddabc0f/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://LiamLombard.github.io/on-education/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`892c0abd8e8d11ce60fab6bf950cb4720035add1`](https://github.com/LiamLombard/on-education/commit/892c0abd8e8d11ce60fab6bf950cb4720035add1).
+[`65ea2d089564f729b2a38eab5d62d7638ddabc0f`](https://github.com/LiamLombard/on-education/commit/65ea2d089564f729b2a38eab5d62d7638ddabc0f).
